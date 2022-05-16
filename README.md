@@ -8,7 +8,7 @@
 <br>
  Ao longo da minha jornada venho aprendendo novas tecnologias e aprimorando meus conhcecimento cada dia mais.<br>  Aqui no meu Git você encontrarar meus principais projetos e algumas anotações de estudo que venho fazendo com o tempo.<br>
   <br>
-  Fique a vontade para para explorar em minhas bagunças &#128516;
+  Fique a vontade para para explorar em minhas bagunças<h3>&#128516;</h3>
 </p>
   <br>
   <br>
