@@ -59,3 +59,61 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLazaroCS&layout=compact&theme=radical"> 
     
   </div>
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------  
+<table>
+<thead>
+<tr>
+<th align="center">Front-end</th>
+<th align="center">Back-end</th>
+<th align="center">Design e Ilustração</th>
+<th align="center">Sistemas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="17px"> HTML5</td>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="17px"> JavaScript</td>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-3.png" width="17px"> Photoshop</td>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2018/06/debian-logo-1.png" width="17px"> Debian Linux</td>  
+</tr>
+<tr>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" width="17px"> CSS3</td>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-10.png" width="20px"> PHP</td>
+</tr>
+<tr>
+<td align="center">...</td>
+<td align="center">...</td>
+</tr>
+<tr>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+</tr>
+<tr>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">..</td>
+</tr>
+<tr>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+</tr>
+<tr>
+<td align="center">...)</td>
+<td align="center">...</td>
+<td align="center">...</td>
+</tr>
+<tr>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+</tr>
+<tr>
+<td align="center">...</td>
+<td align="center">..</td>
+<td align="center">...</td>
+</tr>
+</tbody>
+</table>
