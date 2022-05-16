@@ -18,8 +18,20 @@
   </div>
   <br>
   
-  <div align="center">
-    <h2>🛠 Tech Stack</h2>
+  <h2 align="center">🛠 Principais Stacks e Skills</h2>
+  <div align="left">
+    <p><b>Font-End</b></p>
+    <p>
+      <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="40px">
+      <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" width="40px">
+      <img src="https://logodownload.org/wp-content/uploads/2014/11/wordpress-logo-w.png" width="45px">
+  </p>
+  
+  <p><b>Back-End</b></p>
+    <p>
+      <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="40px">
+      <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-10.png" width="60px">
+  </p>
   
   </div>
 <br/> 
