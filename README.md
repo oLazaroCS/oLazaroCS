@@ -4,7 +4,12 @@
   <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right" height="300px"/>
   </p>
   
-  <p align="center">Me chamo Lazaro Santos.<br>Sou estudante de Desenvolvimento Full Stack.</p>
+  <p align="center">Me chamo Lazaro Santos, Sou estudante de Desenvolvimento Full Stack e Segurança da Informação.
+<br>
+ Ao longo da minha jornada venho aprendendo novas tecnologias e aprimorando meus conhcecimento cada dia mais.<br>  Aqui no meu Git você encontrarar meus principais projetos e algumas anotações de estudo que venho fazendo com o tempo.<br>
+  <br>
+  Fique a vontade para para explorar em minhas bagunças &#128516;
+</p>
   
   <div align="center">
    <a href="https://www.linkedin.com/in/lazaro-santos-16926911b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
