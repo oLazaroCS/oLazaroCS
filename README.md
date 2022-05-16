@@ -4,7 +4,7 @@
   <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right" height="300px"/>
   </p>
   
-  <p align="center">Meu nome é Hideyuki Takahashi, estudo para ser um desenvolvedor Full Stack, busco sempre me atualizar e conhecer novas tecnologias de desenvolvimento de sistemas.</p>
+  <p align="center">Me chamo Lazaro Santos.<br>Sou estudante de Desenvolvimento Full Stack.</p>
   
   <div align="center">
    <a href="https://www.linkedin.com/in/lazaro-santos-16926911b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
