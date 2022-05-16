@@ -8,7 +8,7 @@
 <br>
  Ao longo da minha jornada venho aprendendo novas tecnologias e aprimorando meus conhcecimento cada dia mais.<br>  Aqui no meu Git você encontrarar meus principais projetos e algumas anotações de estudo que venho fazendo com o tempo.<br>
   <br>
-  Fique a vontade para para explorar em minhas bagunças<h3>&#128516;</h3>
+  Fique a vontade para para explorar em minhas bagunças &#128516;
 </p>
   <br>
   <br>
@@ -33,9 +33,14 @@
       <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-10.png" width="60px">
   </p>
   
+  <p><b>Design e Ilustração</b></p>
+    <p>
+      <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-3.png" width="40px">
+      <img src="https://logodownload.org/wp-content/uploads/2017/04/Adobe-Illustrator-ai-logo.png" width="40px">
+  </p>
+  
   </div>
 <br/> 
-  
   <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oLazaroCS&show_icons=true&theme=radical">  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLazaroCS&layout=compact&theme=radical"> 
