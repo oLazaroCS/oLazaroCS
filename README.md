@@ -27,17 +27,30 @@
       <img src="https://logodownload.org/wp-content/uploads/2014/11/wordpress-logo-w.png" width="45px">
   </p>
   
+<br/>
+  
   <p><b>Back-End</b></p>
     <p>
       <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="40px">
       <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-10.png" width="60px">
   </p>
   
+<br/>
+  
   <p><b>Design e Ilustração</b></p>
     <p>
       <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-3.png" width="40px">
       <img src="https://logodownload.org/wp-content/uploads/2017/04/Adobe-Illustrator-ai-logo.png" width="40px">
   </p>
+  
+<br/>  
+  
+   <p><b>Sistemas</b></p>
+    <p>
+      <img src="https://logodownload.org/wp-content/uploads/2018/06/debian-logo-1.png" width="45px">
+  </p>
+
+<br/>  
   
   </div>
 <br/> 
