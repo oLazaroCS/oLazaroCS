@@ -18,7 +18,7 @@
   </div>
   <br>
   
-  <h2 align="center">🛠 Principais Stacks e Skills</h2>
+  <h2 align="center">🛠 Principais Stacks</h2>
   
 <table align="center">
 <thead>
