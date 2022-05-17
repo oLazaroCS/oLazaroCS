@@ -19,49 +19,8 @@
   <br>
   
   <h2 align="center">🛠 Principais Stacks e Skills</h2>
-  <div align="left">
-    <p><b>Font-End</b></p>
-    <p>
-      <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="40px">
-      <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" width="40px">
-      <img src="https://logodownload.org/wp-content/uploads/2014/11/wordpress-logo-w.png" width="45px">
-  </p>
   
-<br/>
-  
-  <p><b>Back-End</b></p>
-    <p>
-      <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="40px">
-      <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-10.png" width="60px">
-  </p>
-  
-<br/>
-  
-  <p><b>Design e Ilustração</b></p>
-    <p>
-      <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-3.png" width="40px">
-      <img src="https://logodownload.org/wp-content/uploads/2017/04/Adobe-Illustrator-ai-logo.png" width="40px">
-  </p>
-  
-<br/>  
-  
-   <p><b>Sistemas</b></p>
-    <p>
-      <img src="https://logodownload.org/wp-content/uploads/2018/06/debian-logo-1.png" width="45px">
-  </p>
-
-<br/>  
-  
-  </div>
-<br/> 
-  <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oLazaroCS&show_icons=true&theme=radical">  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLazaroCS&layout=compact&theme=radical"> 
-    
-  </div>
-  
--------------------------------------------------------------------------------------------------------------------------------------------------------------  
-<table>
+<table align="center">
 <thead>
 <tr>
 <th align="center">Front-end</th>
@@ -74,46 +33,30 @@
 <tr>
 <td align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="17px"> HTML5</td>
 <td align="center"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" width="17px"> JavaScript</td>
-<td align="center"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-3.png" width="17px"> Photoshop</td>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-3.png" width="17px"> Adobe Photoshop</td>
 <td align="center"><img src="https://logodownload.org/wp-content/uploads/2018/06/debian-logo-1.png" width="17px"> Debian Linux</td>  
 </tr>
 <tr>
 <td align="center"><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" width="17px"> CSS3</td>
 <td align="center"><img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-10.png" width="20px"> PHP</td>
-</tr>
-<tr>
-<td align="center">...</td>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2017/04/Adobe-Illustrator-ai-logo.png" width="17px"> Adobe Illustrator</td>
 <td align="center">...</td>
 </tr>
 <tr>
+<td align="center"><img src="https://logodownload.org/wp-content/uploads/2014/11/wordpress-logo-w.png" width="17px"> WordPress</td>
 <td align="center">...</td>
 <td align="center">...</td>
-<td align="center">...</td>
-</tr>
-<tr>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">..</td>
-</tr>
-<tr>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-</tr>
-<tr>
-<td align="center">...)</td>
-<td align="center">...</td>
-<td align="center">...</td>
-</tr>
-<tr>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-</tr>
-<tr>
-<td align="center">...</td>
-<td align="center">..</td>
 <td align="center">...</td>
 </tr>
 </tbody>
 </table>
+
+<br/>  
+  
+  </div>
+<br/> 
+  <div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oLazaroCS&show_icons=true&theme=radical">  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLazaroCS&layout=compact&theme=radical"> 
+    
+  </div>
