@@ -1,7 +1,7 @@
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem vindo ao meu GitHub</h1>
 
-<p dir="auto">
-  <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right" height="300px"/>
+<p align="center">
+  <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" height="300px"/>
   </p>
   
   <p align="center">Me chamo Lazaro Santos, Sou estudante de Desenvolvimento Full Stack e Segurança da Informação.
