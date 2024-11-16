@@ -36,4 +36,4 @@
 </div>
 <br>
 <p align="center">Sinta-se à vontade para explorar meus repositórios e, se tiver alguma dúvida ou ideia para colaboração, entre em contato!</p>
-
+<img width="100%" height="8px" style="max-width: 100%" src="./linha_02.png">
