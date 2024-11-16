@@ -34,3 +34,6 @@
   <img width="50px"  src="./logoReact.png">
   <img width="40px"  src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
 </div>
+<br>
+<p align="center">Sinta-se à vontade para explorar meus repositórios e, se tiver alguma dúvida ou ideia para colaboração, entre em contato!</p>
+
