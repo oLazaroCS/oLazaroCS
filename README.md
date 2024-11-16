@@ -10,8 +10,15 @@
 <img width="100%" height="8px" style="max-width: 100%" src="./linha_01.png">
 <h3 align="center" class="heading-element" dir="auto">•   Sobre mim   •</h3>
 
-<p>Olá, sou Lazaro Santos, programador web e estudante de desenvolvimento mobile. Com uma paixão por criar experiências digitais interativas e funcionais, trabalho com tecnologias web como HTML, CSS, JavaScript, React e Node.js, enquanto estou expandindo meus conhecimentos para o mundo do desenvolvimento mobile.</p>
+<p>Olá, sou Lazaro Santos, programador web e estudante de desenvolvimento mobile. Com uma paixão por criar experiências digitais interativas e funcionais, trabalho com tecnologias web como HTML, CSS, JavaScript, TypeScript, React e Node.js, enquanto estou expandindo meus conhecimentos para o mundo do desenvolvimento mobile.</p>
 <br>
 <img width="100%" height="8px" style="max-width: 100%" src="./linha_01.png">
 <h3 align="center" class="heading-element" dir="auto">•  Tecnologias que utilizo  •</h3>
-
+<br>
+<div align="center" dir="auto">
+  <img width="50px"  src="./logoHtml.png" >
+  <img width="50px"  src="./logo.png">
+  <img width="50px"  src="./logoJavaScript.png">
+  <img width="50px"  src="./logoTypeScript.png">
+  <img width="50px"  src="./logoReact.png">
+</div>
