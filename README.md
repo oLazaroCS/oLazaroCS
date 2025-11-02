@@ -1,39 +1,72 @@
-<img src="./Background_perfil.png" width="100%" height="500px"/>
-<br>
-<h3 align="center" class="heading-element" dir="auto">•   FullStack Developer   •</h3>
+<h1 align="left">Olá 👋 Seja Bem Vindo(a)!!!</h1>
 
-<div align="center" dir="auto"> 
-  <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oLazaroCS&show_icons=true&count_private=true&title_color=3b77cc&icon_color=63598E&text_color=c9d1d9&bg_color=0d1117&border_color=fff0">  
-  <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLazaroCS&layout=compact&title_color=3b77cc&text_color=fff&bg_color=0d1117&border_color=fff0">
+###
+
+<p align="left">Me chamo Lazaro , programador web e estudante de desenvolvimento mobile. Com uma paixão por criar experiências digitais interativas e funcionais, trabalho com tecnologias web como HTML, CSS, JavaScript, TypeScript, React, Node.js e Flutter, enquanto estou expandindo meus conhecimentos para o mundo do desenvolvimento mobile.</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo Flutter<br>🎯 Objetivos: Ser especialista em desenvolvimento Cross-Platform<br>🎲 Curiosidade: Sou Designer e Ilustrador</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<img width="100%" height="8px" style="max-width: 100%" src="./linha_01.png">
-<h3 align="center" class="heading-element" dir="auto">•   Sobre mim   •</h3>
-
-<p>Olá, sou Lazaro Santos, programador web e estudante de desenvolvimento mobile. Com uma paixão por criar experiências digitais interativas e funcionais, trabalho com tecnologias web como HTML, CSS, JavaScript, TypeScript, React e Node.js, enquanto estou expandindo meus conhecimentos para o mundo do desenvolvimento mobile.</p>
+###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lazaro-santos-16926911b/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/lazaro.santos.9081" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/olazarocs" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=oLazaroCS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oLazaroCS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
-<br>
-<img width="100%" height="8px" style="max-width: 100%" src="./linha_01.png">
-<h3 align="center" class="heading-element" dir="auto">•  Tecnologias que utilizo  •</h3>
-<br>
-<div align="center" dir="auto">
-  <img width="50px"  src="./logoHtml.png" >
-  <img width="50px"  src="./logoCss.png">
-  <img width="50px"  src="./logoJavaScript.png">
-  <img width="50px"  src="./logoTypeScript.png">
-  <img width="50px"  src="./logoReact.png">
-  <img width="40px"  src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oLazaroCS/oLazaroCS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oLazaroCS/oLazaroCS/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oLazaroCS/oLazaroCS/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-<br>
-<p align="center">Sinta-se à vontade para explorar meus repositórios e, se tiver alguma dúvida ou ideia para colaboração, entre em contato!</p>
-<img width="100%" height="8px" style="max-width: 100%" src="./linha_02.png">
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=oLazaroCS.oLazaroCS&left_color=cornflowerblue&right_color=firebrick&left_text=Visitas"  />
+</div>
+
+###
